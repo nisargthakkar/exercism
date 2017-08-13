@@ -1,0 +1,1 @@
+/Users/nisthakkar/exercism/rust/run-length-encoding/target/debug/run_length_encoding-defcb8180bdea129: /Users/nisthakkar/exercism/rust/run-length-encoding/tests/run-length-encoding.rs /Users/nisthakkar/exercism/rust/run-length-encoding/src/lib.rs

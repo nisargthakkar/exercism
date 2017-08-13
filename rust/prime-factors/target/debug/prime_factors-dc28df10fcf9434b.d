@@ -1,0 +1,1 @@
+/Users/nisthakkar/exercism/rust/prime-factors/target/debug/prime_factors-dc28df10fcf9434b: /Users/nisthakkar/exercism/rust/prime-factors/src/lib.rs /Users/nisthakkar/exercism/rust/prime-factors/tests/prime-factors.rs
